@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": 1, "name": "kshitij" },
+    { "id": 2, "name": "vicky" },
+    { "id": 3, "name": "jem" }
+  ],
+  "dish": [
+    { "id": 1, "name": "Aloo Pako", "price": 20 },
+    { "id": 2, "name": "Aloo Samosa", "price": 30 },
+    { "id": 3, "name": "Aloo Cheesse Pizza", "price": 10 }
+  ]
+}
